@@ -237,6 +237,15 @@ span.text-red {
   font-size: 80px;
   margin-left: 25px;
 }
+
+.banner-desc .left h4 {
+  font-weight: 700;
+  font-size: 60px;
+  margin-left: 25px;
+  padding-top: 2rem;
+  opacity: 0.8;
+}
+
 .banner-desc .left p {
   margin: 18px;
 }
@@ -633,6 +642,15 @@ span.text-red {
     font-size: 50px;
     margin-left: 5px;
   }
+
+  .banner-desc .left h4 {
+    font-weight: 700;
+    font-size: 60px;
+    margin-left: 25px;
+    padding-top: 2rem;
+    opacity: 0.8;
+  }
+
   .banner-desc .left p {
     margin: 18px;
   }
